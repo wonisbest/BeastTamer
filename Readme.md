@@ -1,6 +1,10 @@
 # Beast Tamer
-2022 전북대학교 게임 경진대회 우수상
-
-개발인원 : 1인
-
-개발기간 : 1달
+![BeastTamer_01](https://github.com/user-attachments/assets/83f63baf-71a7-434d-ab8e-245ba4c2de62)
+![BeastTamer_02](https://github.com/user-attachments/assets/16e60b54-f666-4b96-a494-669b88a5e71f)
+![BeastTamer_03](https://github.com/user-attachments/assets/74b6aa53-7979-486e-81bb-eb59ba28559e)
+![BeastTamer_04](https://github.com/user-attachments/assets/d4818c80-4187-4bc7-9381-f8cdedddc3b7)
+![BeastTamer_05](https://github.com/user-attachments/assets/b262fe1f-9bb9-4e86-a3f0-3ba5a3928b04)
+![BeastTamer_07](https://github.com/user-attachments/assets/80047adc-ba6b-4fdb-ac48-51c558bc958c)
+![BeastTamer_08](https://github.com/user-attachments/assets/0dd11bc7-5097-4dd4-944d-5890ed5ce3cb)
+![BeastTamer_09](https://github.com/user-attachments/assets/329247a4-08b8-4170-a2ae-f59fb10db6dd)
+![BeastTamer_10](https://github.com/user-attachments/assets/54b686b6-3ca4-4982-9f5d-eb38efff0d3c)
